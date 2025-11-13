@@ -71,7 +71,7 @@ span {
     body {
       background-repeat: no-repeat;
       background-position: center center;
-      height: auto;
+      height: 100%;
       width: auto;
     }
 
